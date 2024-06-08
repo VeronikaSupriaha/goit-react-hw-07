@@ -1,0 +1,16 @@
+.contactList{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    flex-direction: row;
+    gap: 32px;
+    
+}
+
+.contactItem{
+    border-radius: 6px; 
+    border-radius: 4px;
+    border: 1px solid var(--LIGHT-SLATE, #8E8F99);
+    background-color: #F4F4FD;
+}
